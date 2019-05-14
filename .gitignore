@@ -1,0 +1,8 @@
+node_modules/
+aebuild-sublime/temp-autocomplete.txt
+modules/@esdebug
+
+.DS_Store
+Thumbs.db
+*.sublime-project
+*.sublime-workspace
