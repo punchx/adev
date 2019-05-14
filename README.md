@@ -24,5 +24,5 @@ npm install -g adev
 - -m, --makefile Concat all includes in main file
 - -h, --help output usage information
 
-## If you are interested in this tool you can write me on: glowdesign.md@gmail.com
+### If you are interested in this tool you can write me on: glowdesign.md@gmail.com
 
